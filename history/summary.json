@@ -40,7 +40,7 @@
     "url": "https://apiblaze.admantium.com",
     "icon": "https://favicons.githubusercontent.com/apiblaze.admantium.com",
     "slug": "apiblaze",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 508,
     "timeMonth": 508,
     "timeYear": 508,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-26": 0
+    }
   }
 ]
