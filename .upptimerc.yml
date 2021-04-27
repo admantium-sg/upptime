@@ -11,6 +11,15 @@ sites:
   - name: Apiblaze
     url: https://apiblaze.admantium.com
 
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "1 8 * * 3"
+
 status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
