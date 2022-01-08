@@ -8,8 +8,6 @@ sites:
     url: https://admantium.com
   - name: Lighthouse
     url: https://lighthouse.admantium.com
-  - name: Apiblaze
-    url: https://apiblaze.admantium.com
 
 workflowSchedule:
   graphs: "0 0 * * *"
