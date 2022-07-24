@@ -4,7 +4,7 @@
     "url": "https://admantium.com",
     "icon": "https://favicons.githubusercontent.com/admantium.com",
     "slug": "admantium",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 807,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2022-07-24": 0,
       "2021-12-31": 745,
       "2021-12-30": 46,
       "2021-12-15": 25
@@ -27,7 +28,7 @@
     "icon": "https://favicons.githubusercontent.com/lighthouse.admantium.com",
     "slug": "lighthouse",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
