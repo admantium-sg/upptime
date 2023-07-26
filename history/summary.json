@@ -9,17 +9,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.47%",
     "time": 804,
-    "timeDay": 648,
-    "timeWeek": 937,
-    "timeMonth": 826,
+    "timeDay": 854,
+    "timeWeek": 888,
+    "timeMonth": 830,
     "timeYear": 806,
     "dailyMinutesDown": {
       "2022-09-18": 657,
       "2022-08-27": 726,
-      "2022-08-26": 57,
-      "2022-07-26": 1383
+      "2022-08-26": 57
     }
   },
   {
@@ -28,22 +27,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/lighthouse.admantium.com.ico",
     "slug": "lighthouse",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.19%",
     "time": 570,
-    "timeDay": 428,
-    "timeWeek": 594,
-    "timeMonth": 572,
-    "timeYear": 558,
+    "timeDay": 485,
+    "timeWeek": 569,
+    "timeMonth": 574,
+    "timeYear": 557,
     "dailyMinutesDown": {
       "2022-09-18": 657,
       "2022-08-27": 726,
       "2022-08-26": 57,
-      "2022-07-27": 1383,
-      "2022-07-26": 1440
+      "2022-07-27": 1383
     }
   }
 ]
