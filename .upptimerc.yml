@@ -6,8 +6,6 @@ repo: upptime # Your GitHub repository name
 sites:
   - name: Admantium
     url: https://admantium.com
-  - name: Lighthouse
-    url: https://lighthouse.admantium.com
 
 workflowSchedule:
   graphs: "0 0 * * *"
