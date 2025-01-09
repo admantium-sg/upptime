@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/admantium.com.ico",
     "slug": "admantium",
     "status": "up",
-    "uptime": "99.57%",
+    "uptime": "99.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 836,
-    "timeDay": 687,
-    "timeWeek": 860,
+    "time": 835,
+    "timeDay": 696,
+    "timeWeek": 852,
     "timeMonth": 833,
-    "timeYear": 800,
+    "timeYear": 799,
     "dailyMinutesDown": {}
   }
 ]
