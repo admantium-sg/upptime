@@ -4,17 +4,17 @@
     "url": "https://admantium.com",
     "icon": "https://icons.duckduckgo.com/ip3/admantium.com.ico",
     "slug": "admantium",
-    "status": "down",
-    "uptime": "98.52%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "up",
+    "uptime": "98.51%",
+    "uptimeDay": "66.67%",
+    "uptimeWeek": "95.24%",
     "uptimeMonth": "57.03%",
-    "uptimeYear": "93.12%",
-    "time": 871,
+    "uptimeYear": "93.03%",
+    "time": 870,
     "timeDay": 513,
-    "timeWeek": 612,
-    "timeMonth": 690,
-    "timeYear": 806,
+    "timeWeek": 591,
+    "timeMonth": 681,
+    "timeYear": 805,
     "dailyMinutesDown": {
       "2026-11-02": 1287,
       "2026-11-01": 1440,
@@ -41,7 +41,9 @@
       "2026-10-11": 1440,
       "2026-10-10": 1440,
       "2026-10-09": 1440,
-      "2026-10-08": 326
+      "2026-10-08": 326,
+      "2026-11-21": 224,
+      "2026-11-20": 256
     }
   }
 ]
